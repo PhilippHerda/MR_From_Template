@@ -3098,6 +3098,10 @@ PrefabInstance:
       propertyPath: m_StepList.Array.data[2].includeSkipButton
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2008039132536089116, guid: 8b4d02b4e05af714dab2a12548a310f8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3323714883381372193, guid: 8b4d02b4e05af714dab2a12548a310f8, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
